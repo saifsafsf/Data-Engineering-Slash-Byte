@@ -160,6 +160,8 @@ if __name__ == '__main__':
 
     # finding the source page & scraping the information
     url, num_of_pages = finding_page(location)
+
+    # use num_of_pages if you want to scrape more than 3 pages from the same location
     df = scraping_info(url)
 
     # saving the dataframe into a CSV
