@@ -163,4 +163,4 @@ if __name__ == '__main__':
     df = scraping_info(url)
 
     # saving the dataframe into a CSV
-    df.to_csv(f'./zameen-{location}.csv', index=False)
+    df.to_csv(f'./data/zameen-{location}.csv', index=False)
