@@ -6,3 +6,5 @@
 - Run the main.py file.
 - Once the program is running, do NOT switch the windows until the dropdown menu is accessed.
 - After that, the script will keep running in the back, the user can safely navigate through the open windows.
+
+Two scraped datasets have been provided as a proof.
