@@ -1,4 +1,6 @@
 # Scraping-Real-Estate-Information
+This project scrapes information from a webiste with real estate listings and then saves the data in `.csv` format.
+The project is immune to the pop-up ads on the subject website i.e. 
 
 ### How to Run:
 - Make sure the Chrome Driver is placed in the same directory as the file accessing it.
