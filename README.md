@@ -1,4 +1,4 @@
-# Scraping-Real-Estate-Information
+# Scraping-Real-Estate-Listings
 This project scrapes information from a website with real estate listings and then saves the data in `.csv` format.
 The project is immune to the pop-up ads on the subject website i.e. `https://www.zameen.com/`
 
